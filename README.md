@@ -5,10 +5,10 @@
 [![suleymanovef@gmail.com](https://img.shields.io/badge/suleymanovef@gmail.com--brightgreen?style=social&logo=gmail)](mailto:suleymanovef@gmail.com)
 
 
- - 👨‍💻 Bioinformatics, biostatistics 🧬
+ - 👨‍💻 Bioinformatics, biostatistics 
  - 🧬 I do research in single-cell transcriptomics of rheumatoid arthritis 
- - 🔬 Studied in Sechenov University, Skoltech and Bioinformatics Institute 👨‍🎓
- - 🏔 I love trekking and snowboarding 🧗‍♂️
+ - 👨‍🎓 Studied in Sechenov University, Skoltech and Bioinformatics Institute 
+ - 🏔 I love trekking and snowboarding 
 
 
 
