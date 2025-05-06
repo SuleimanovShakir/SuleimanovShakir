@@ -6,9 +6,10 @@
 
 
  - 👨‍💻 Bioinformatics, biostatistics 
- - 🧬 I do research in single-cell transcriptomics of rheumatoid arthritis 
- - 👨‍🎓 Studied in Sechenov University, Skoltech and Bioinformatics Institute 
- - 🏔 I love trekking and snowboarding 
+ - 🧬 Do research in single-cell immunology and study the lung cancer using scRNA-seq and scTCR-seq
+ - 📓 Studied in Sechenov University, Skoltech and Bioinformatics Institute
+ - 👨‍🎓 Teaching assistant in Bioinfomatics Institute (Statistics and R course)
+ - 🏔 Love trekking, snowboarding and mountains
 
 
 
